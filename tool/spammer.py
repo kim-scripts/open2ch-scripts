@@ -48,3 +48,6 @@ def spam():
         #},
     headers=headers)
         print(response.text)
+
+def spammer(sure_id):
+    return 'OK'
